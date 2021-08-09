@@ -1,0 +1,11 @@
+TOPIC
+    about_PSPMP
+
+SHORT DESCRIPTION
+    PSPMP is a Powershell API wrapper that wraps the Password Manager Pro API.
+
+SEE ALSO
+    Get-PMPResource
+    Get-PMPAccount
+    Get-PMPPassword
+    Invoke-PMPRestMethod
