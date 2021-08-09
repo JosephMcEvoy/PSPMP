@@ -14,4 +14,4 @@ jobs:
           NUGETAPIKEY: ${{ secrets.NUGETAPIKEY }}
         shell: pwsh
         run: |
-          Publish-Module -Path '.\PSPMP' -NuGetApiKey $env:NUGET_KEY -Verbose
+          Publish-Module -Path '.\PSPMP' -NuGetApiKey $env:NUGETAPIKEY -Verbose
