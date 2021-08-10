@@ -21,6 +21,7 @@ Import the module.
 ```
 Import-Module PSPMP
 ```
+## Available Commands ##
 After loading the module, use `Get-Help PSPMP` to learn more about available commands.
 
 # Get your API token #
