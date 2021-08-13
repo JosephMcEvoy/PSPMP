@@ -16,7 +16,8 @@
 
     .PARAMETER Account
     The name of the account. When this paramater is provided, the cmdlet will return all accounts under the
-    resource that match the name provided.
+    resource that match the name provided. When this parameter is not provided, all accounts for a given
+    resource will be returned.
 
     .EXAMPLE
     Get all PMP accounts for a resource.
