@@ -15,8 +15,7 @@
     The name of the resource.
 
     .PARAMETER Account
-    The name of the account. When this paramater is provided, the cmdlet will return all accounts under the
-    resource that match the name provided.
+    The name of the account.
 
     .EXAMPLE
     Get PMP password for an account belonging to a resource.
